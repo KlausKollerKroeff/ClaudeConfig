@@ -1,6 +1,9 @@
 # Secrets & credentials
 .mcp.json
 
+# Project-level session data (transient, machine-specific)
+projects/
+
 # Session data (transient, personal)
 sessions/
 shell-snapshots/

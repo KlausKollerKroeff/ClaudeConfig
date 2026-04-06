@@ -1,0 +1,8 @@
+{
+  "id": "1",
+  "subject": "Remove currently running agents (Mateo, Trevor)",
+  "description": "Delete the team directories for agent-mateo and agent-trevor to clear all running agents",
+  "status": "in_progress",
+  "blocks": [],
+  "blockedBy": []
+}

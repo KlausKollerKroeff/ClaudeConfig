@@ -1,0 +1,8 @@
+{
+  "id": "6",
+  "subject": "Auto-resume Trevor on dashboard page load",
+  "description": "When the dashboard loads, check if Trevor is sleeping and auto-resume without manual terminal command",
+  "status": "pending",
+  "blocks": [],
+  "blockedBy": []
+}

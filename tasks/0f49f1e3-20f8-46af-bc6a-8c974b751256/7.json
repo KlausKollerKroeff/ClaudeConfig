@@ -1,0 +1,8 @@
+{
+  "id": "7",
+  "subject": "Launch all agents on single new desktop space with auto-trust",
+  "description": "When clicking Wake Up, create a new macOS desktop space and open all agent sessions there. Also auto-trust the workspace directory so no trust dialog appears.",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}

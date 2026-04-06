@@ -1,0 +1,30 @@
+# Secrets & credentials
+.mcp.json
+
+# Session data (transient, personal)
+sessions/
+shell-snapshots/
+ide/
+cache/
+downloads/
+
+# Conversation history (contains personal data)
+history.jsonl
+enriched-history.jsonl
+session-summaries/
+session-env/
+.local-dream-last-run.log
+.local-dream-session-counter
+
+# Telemetry & debug
+telemetry/
+debug/
+backups/
+paste-cache/
+file-history/
+
+# Platform specific
+.DS_Store
+
+# Lock files (regenerated)
+skills-lock.json

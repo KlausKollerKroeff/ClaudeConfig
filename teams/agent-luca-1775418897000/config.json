@@ -1,0 +1,13 @@
+{
+  "description": "Backend Node.js specialist — API routes, Express server logic, database interactions",
+  "leaderSessionId": null,
+  "createdAt": 1775418897000,
+  "members": [
+    {
+      "agentId": "agent-luca",
+      "name": "Luca",
+      "agentType": "luca",
+      "backgroundId": "luca-launched-1775440271679"
+    }
+  ]
+}

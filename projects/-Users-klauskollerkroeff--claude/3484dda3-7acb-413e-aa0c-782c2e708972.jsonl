@@ -1,0 +1,8 @@
+{"type":"agent-setting","agentSetting":"trevor","sessionId":"3484dda3-7acb-413e-aa0c-782c2e708972"}
+{"type":"permission-mode","permissionMode":"acceptEdits","sessionId":"3484dda3-7acb-413e-aa0c-782c2e708972"}
+{"type":"file-history-snapshot","messageId":"d974d051-2bc9-458b-87af-d553b1f4b25a","snapshot":{"messageId":"d974d051-2bc9-458b-87af-d553b1f4b25a","trackedFileBackups":{},"timestamp":"2026-04-05T23:32:27.223Z"},"isSnapshotUpdate":false}
+{"parentUuid":null,"isSidechain":false,"promptId":"9e027956-527f-448c-a579-be9e3175bd42","type":"user","message":{"role":"user","content":"add my existing agents to the pixel agents extension"},"uuid":"d974d051-2bc9-458b-87af-d553b1f4b25a","timestamp":"2026-04-05T23:32:27.217Z","permissionMode":"acceptEdits","userType":"external","entrypoint":"cli","cwd":"/Users/klauskollerkroeff/.claude","sessionId":"3484dda3-7acb-413e-aa0c-782c2e708972","version":"2.1.92","gitBranch":"HEAD"}
+{"parentUuid":"d974d051-2bc9-458b-87af-d553b1f4b25a","isSidechain":false,"attachment":{"type":"companion_intro","name":"Zestwick","species":"rabbit"},"type":"attachment","uuid":"eea1ebf2-879e-4ab6-b22a-d31e3d65162c","timestamp":"2026-04-05T23:32:27.216Z","userType":"external","entrypoint":"cli","cwd":"/Users/klauskollerkroeff/.claude","sessionId":"3484dda3-7acb-413e-aa0c-782c2e708972","version":"2.1.92","gitBranch":"HEAD"}
+{"type":"last-prompt","lastPrompt":"add my existing agents to the pixel agents extension","sessionId":"3484dda3-7acb-413e-aa0c-782c2e708972"}
+{"type":"agent-setting","agentSetting":"trevor","sessionId":"3484dda3-7acb-413e-aa0c-782c2e708972"}
+{"type":"permission-mode","permissionMode":"acceptEdits","sessionId":"3484dda3-7acb-413e-aa0c-782c2e708972"}

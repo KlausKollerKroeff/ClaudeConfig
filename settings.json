@@ -1,0 +1,68 @@
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://openrouter.ai/api",
+    "ANTHROPIC_AUTH_TOKEN": "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",
+    "ANTHROPIC_API_KEY": "",
+    "ANTHROPIC_MODEL": "qwen/qwen3.6-plus:free",
+    "CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS": "1"
+  },
+  "permissions": {
+    "allow": [
+      "*"
+    ],
+    "defaultMode": "acceptEdits"
+  },
+  "enabledMcpjsonServers": [
+    "brave-search"
+  ],
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash /Users/klauskollerkroeff/.claude/skills/enriched-history/scripts/enrich-history.sh",
+            "timeout": 5,
+            "async": true
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash /Users/klauskollerkroeff/.claude/skills/enriched-history/scripts/summarize-session.sh",
+            "timeout": 10,
+            "async": true
+          },
+          {
+            "type": "command",
+            "command": "bash /Users/klauskollerkroeff/.claude/skills/local-dream/scripts/dream-trigger.sh",
+            "timeout": 1,
+            "async": true
+          }
+        ]
+      }
+    ]
+  },
+  "enabledPlugins": {
+    "skill-creator@claude-plugins-official": true,
+    "pr-review-toolkit@claude-plugins-official": true,
+    "frontend-design@claude-plugins-official": true,
+    "autoresearch@autoresearch": true
+  },
+  "extraKnownMarketplaces": {
+    "autoresearch": {
+      "source": {
+        "source": "github",
+        "repo": "uditgoenka/autoresearch"
+      }
+    }
+  },
+  "autoMemoryEnabled": true,
+  "autoDreamEnabled": true,
+  "skipDangerousModePermissionPrompt": true,
+  "effortLevel": "high"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "5",
+  "subject": "Add category field to agents API response",
+  "description": "Enhance the canvas with room labels, area headers (like 'MAIN OFFICE', 'RESTING ROOM', 'TENNIS COURT'), decorative elements (plants, water cooler signs), and distinct floor patterns per area.",
+  "activeForm": "Adding visual decorations",
+  "owner": "luca-3",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": [],
+  "metadata": {
+    "assignee": "ellie-2",
+    "task": "2c"
+  }
+}

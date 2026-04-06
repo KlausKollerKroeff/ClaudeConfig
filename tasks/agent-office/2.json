@@ -1,0 +1,9 @@
+{
+  "id": "2",
+  "subject": "Fix description input field",
+  "description": "The agent description input field in the frontend is not clickable/editable. Need to investigate z-index, pointer-events issues in CSS, and verify the backend API PUT /api/agents/:id/description works correctly.",
+  "owner": "luca-2",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}

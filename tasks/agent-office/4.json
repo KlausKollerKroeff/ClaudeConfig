@@ -1,0 +1,14 @@
+{
+  "id": "4",
+  "subject": "Place agents dynamically based on their team/type",
+  "description": "Instead of fixed desk positions, place agents in appropriate rooms based on their type (e.g., managers in main office, explorers in sports area, architects in planning room).",
+  "activeForm": "Placing agents dynamically",
+  "owner": "ellie-2",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": [],
+  "metadata": {
+    "assignee": "ellie-2",
+    "task": "2b"
+  }
+}

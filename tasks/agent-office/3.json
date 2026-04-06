@@ -1,0 +1,14 @@
+{
+  "id": "3",
+  "subject": "Design office floor plan layout with labeled rooms",
+  "description": "Expand the current office map with clearly defined rooms (main office area, meeting rooms, resting rooms, sports areas, lounge) with visual distinction between floor types.",
+  "activeForm": "Designing floor plan layout",
+  "owner": "ellie-2",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": [],
+  "metadata": {
+    "assignee": "ellie-2",
+    "task": "2a"
+  }
+}

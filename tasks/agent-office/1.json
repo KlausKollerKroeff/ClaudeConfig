@@ -1,0 +1,9 @@
+{
+  "id": "1",
+  "subject": "Speed up dashboard load",
+  "description": "The dashboard is slow to load due to synchronous blocking operations during server startup. Need to identify and fix bottlenecks in the Express server initialization and API response times.",
+  "owner": "luca-2",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}

@@ -1,0 +1,9 @@
+[
+  {
+    "from": "team-lead",
+    "text": "{\"type\":\"shutdown_request\",\"reason\":\"All tasks complete — frontend categorization looks great. Shutting down, thanks!\"}",
+    "summary": "Shutdown ellie-3, all agents done",
+    "timestamp": "2026-04-06T03:21:13.728Z",
+    "read": true
+  }
+]

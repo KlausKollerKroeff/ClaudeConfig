@@ -1,0 +1,16 @@
+[
+  {
+    "from": "luca-3",
+    "text": "{\"type\":\"task_assignment\",\"taskId\":\"5\",\"subject\":\"Add visual decorations, labels, and room headers to canvas\",\"description\":\"Enhance the canvas with room labels, area headers (like 'MAIN OFFICE', 'RESTING ROOM', 'TENNIS COURT'), decorative elements (plants, water cooler signs), and distinct floor patterns per area.\",\"assignedBy\":\"luca-3\",\"timestamp\":\"2026-04-06T03:18:39.578Z\"}",
+    "timestamp": "2026-04-06T03:18:39.578Z",
+    "color": "yellow",
+    "read": true
+  },
+  {
+    "from": "team-lead",
+    "text": "{\"type\":\"shutdown_request\",\"reason\":\"Task #5 complete, canvas decorations belong to Ellie's task.\"}",
+    "summary": "Second shutdown for luca-3",
+    "timestamp": "2026-04-06T03:21:36.071Z",
+    "read": true
+  }
+]

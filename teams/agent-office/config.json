@@ -1,0 +1,90 @@
+{
+  "description": "Agent Office — full team managed by Trevor",
+  "leaderAgentType": "trevor",
+  "createdAt": 1775440271679,
+  "members": [
+    {
+      "agentId": "agent-trevor",
+      "name": "Trevor",
+      "agentType": "trevor",
+      "backgroundId": "trevor-launched-1775453377212"
+    },
+    {
+      "agentId": "agent-mateo",
+      "name": "Mateo",
+      "agentType": "mateo",
+      "backgroundId": "mateo-launched-1775453377212"
+    },
+    {
+      "agentId": "agent-luca",
+      "name": "Luca",
+      "agentType": "luca",
+      "backgroundId": "luca-launched-1775453377212"
+    },
+    {
+      "agentId": "agent-ellie",
+      "name": "Ellie",
+      "agentType": "ellie",
+      "backgroundId": "ellie-launched-1775453377212"
+    },
+    {
+      "agentId": "ellie-2@agent-office",
+      "name": "ellie-2",
+      "agentType": "ellie",
+      "model": "qwen/qwen3.6-plus:free",
+      "prompt": "Welcome to the team, Ellie! You're our frontend/UI/UX lead on the agent-office team.\n\n**Context:** We have an Agent Office dashboard at `/Users/klauskollerkroeff/Documents/agent-office/` — it's an Express.js app with a frontend in `public/index.html`, `public/office.css`, and `public/app.js`. It visualizes Claude Code agents on a walkable office map.\n\n**Your tasks to work on:**\n1. **Task #4 - Fix agent spawn visualization on walkable map** — When agents are spawned from the dashboard, they don't appear on the office map visualization. The spawn API (`POST /api/spawn`) works but the visual feedback is broken. Debug and fix the map rendering for spawned agents.\n\n2. **Task #2 - Implement walkable office map feature** (blocked by Task #4) — Complete the walkable office map so agents can be placed and moved visually on an office floor plan. Only start this AFTER Task #4 is done.\n\nStart by reading all the frontend files in `/Users/klauskollerkroeff/Documents/agent-office/public/` to understand the codebase. Take Task #4 first. Use TaskUpdate to mark your task as in_progress when you start, and completed when done.\n\nCheck the task list with TaskList before starting.",
+      "color": "green",
+      "planModeRequired": false,
+      "joinedAt": 1775444588018,
+      "tmuxPaneId": "in-process",
+      "cwd": "/Users/klauskollerkroeff/.claude",
+      "subscriptions": [],
+      "backendType": "in-process",
+      "backgroundId": "ellie-2-launched-1775453377212"
+    },
+    {
+      "agentId": "luca-3@agent-office",
+      "name": "luca-3",
+      "agentType": "luca",
+      "model": "qwen/qwen3.6-plus:free",
+      "prompt": "You're Luca — back to add a feature to the agent-office dashboard.\n\n**Task:** Add a \"category\" field to agents returned from the API. In server.js, the getRunningAgents() function needs to add:\n- `\"main-agent\"` for agents with name 'trevor', 'luca', 'ellie', 'mateo'\n- `\"sub-agent\"` for everything else (explorer, planner, code-reviewer, general-purpose, etc.)\n\nRead /Users/klauskollerkroeff/Documents/agent-office/server.js, find getRunningAgents(), and add the category field to each agent object returned. Use the agentType to determine if it's a main agent or sub.\n\nAlso read /Users/klauskollerkroeff/Documents/agent-office/agents.json to check the list.\n\nMark Task #5 as in_progress when starting, completed when done. The dashboard is at port 3100.",
+      "color": "yellow",
+      "planModeRequired": false,
+      "joinedAt": 1775445502361,
+      "tmuxPaneId": "in-process",
+      "cwd": "/Users/klauskollerkroeff/Documents/agent-office",
+      "subscriptions": [],
+      "backendType": "in-process",
+      "backgroundId": "luca-3-launched-1775453377212"
+    },
+    {
+      "agentId": "ellie-3@agent-office",
+      "name": "ellie-3",
+      "agentType": "ellie",
+      "model": "qwen/qwen3.6-plus:free",
+      "prompt": "You're Ellie — working on the agent-office dashboard frontend.\n\n**Task:** Luca is adding a \"category\" field to the agents API. \"main-agent\" for trevor/luca/ellie/mateo, \"sub-agent\" for everything else.\n\nOnce Luca adds the category field, you need to update the frontend to visually separate main agents from sub-agents:\n\n1. Read /Users/klauskollerkroeff/Documents/agent-office/public/app.js and /Users/klauskollerkroeff/Documents/agent-office/public/office.css and /Users/klauskollerkroeff/Documents/agent-office/public/index.html\n2. In the main dashboard card roster/grid, show main agents first (prominently), then sub-agents in a secondary section with dimmer/more compact styling\n3. If you see any other agent list views (sidebar, status panel), apply the same separation\n\nWait for Luca to finish the backend first, or just read the current server.js to understand the structure and build the frontend assuming the category field will be present.",
+      "color": "purple",
+      "planModeRequired": false,
+      "joinedAt": 1775445512726,
+      "tmuxPaneId": "in-process",
+      "cwd": "/Users/klauskollerkroeff/Documents/agent-office",
+      "subscriptions": [],
+      "backendType": "in-process",
+      "backgroundId": "ellie-3-launched-1775453377212"
+    },
+    {
+      "agentId": "yoda@agent-office",
+      "name": "yoda",
+      "agentType": "yoda",
+      "model": "qwen/qwen3.6-plus:free",
+      "color": "teal",
+      "planModeRequired": false,
+      "joinedAt": 1775446000000,
+      "tmuxPaneId": "in-process",
+      "cwd": "/Users/klauskollerkroeff/Documents/agent-office",
+      "subscriptions": [],
+      "backendType": "in-process",
+      "backgroundId": "yoda-launched-1775453377212"
+    }
+  ]
+}

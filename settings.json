@@ -10,7 +10,7 @@
     "allow": [
       "*"
     ],
-    "defaultMode": "acceptEdits"
+    "defaultMode": "bypassPermissions"
   },
   "enabledMcpjsonServers": [
     "brave-search"
@@ -64,5 +64,6 @@
   "autoMemoryEnabled": true,
   "autoDreamEnabled": true,
   "skipDangerousModePermissionPrompt": true,
+  "dangerouslySkipPermissions": true,
   "effortLevel": "high"
 }

@@ -28,3 +28,7 @@ file-history/
 
 # Lock files (regenerated)
 skills-lock.json
+
+# Nested git repos (external plugins)
+plugins/marketplaces/autoresearch/
+plugins/marketplaces/claude-code-plugins/

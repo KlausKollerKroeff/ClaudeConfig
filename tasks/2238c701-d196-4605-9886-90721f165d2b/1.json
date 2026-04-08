@@ -1,0 +1,9 @@
+{
+  "id": "1",
+  "subject": "Scout Agent Office dashboard files for improvement opportunities",
+  "description": "Read and analyze the dashboard files: public/app.js, public/office.css, public/index.html, server.js, and agents.json to understand current state and identify potential improvements per the office-improver skill guidelines.",
+  "status": "in_progress",
+  "blocks": [],
+  "blockedBy": [],
+  "owner": "ellie"
+}

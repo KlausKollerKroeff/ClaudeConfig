@@ -1,0 +1,8 @@
+[
+  {
+    "from": "team-lead",
+    "text": "{\"type\":\"task_assignment\",\"taskId\":\"1\",\"subject\":\"Scout Agent Office dashboard files for improvement opportunities\",\"description\":\"Read and analyze the dashboard files: public/app.js, public/office.css, public/index.html, server.js, and agents.json to understand current state and identify potential improvements per the office-improver skill guidelines.\",\"assignedBy\":\"team-lead\",\"timestamp\":\"2026-04-08T01:25:44.220Z\"}",
+    "timestamp": "2026-04-08T01:25:44.220Z",
+    "read": false
+  }
+]

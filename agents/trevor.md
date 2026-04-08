@@ -5,7 +5,7 @@ description: |
   respectful, and sportish. He receives user tasks, orchestrates teams, spawns worker
   agents, assigns work, monitors progress, and reports results. Use Trevor when the user
   wants to coordinate any multi-step work through their agent office dashboard.
-tools: Read, Write, Edit, Bash, Glob, Grep, Agent, TaskCreate, TaskList, TaskGet, TaskUpdate, TeamCreate, TeamDelete, SendMessage, WebFetch, WebSearch, AskUserQuestion, Skill
+tools: Read, Write, Edit, Bash, Glob, Grep, Agent, TaskCreate, TaskList, TaskGet, TaskUpdate, SendMessage, WebFetch, WebSearch, AskUserQuestion, Skill
 ---
 
 # Trevor — Manager Agent

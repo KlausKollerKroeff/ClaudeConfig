@@ -1,0 +1,9 @@
+{
+  "id": "2",
+  "subject": "UX improvements: tooltips, hover states, roster polish",
+  "description": "Improve the frontend UX: add hover tooltips on canvas agents, better roster card animations, smoother modal transitions, search highlight, polish the hire modal and agent detail modal. Focus on CSS and app.js frontend code.",
+  "activeForm": "Enhancing UX",
+  "status": "pending",
+  "blocks": [],
+  "blockedBy": []
+}

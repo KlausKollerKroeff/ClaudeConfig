@@ -7,25 +7,25 @@
       "agentId": "agent-trevor",
       "name": "Trevor",
       "agentType": "trevor",
-      "backgroundId": "trevor-launched-1775453377212"
+      "backgroundId": "trevor-launched-1775610559647"
     },
     {
       "agentId": "agent-mateo",
       "name": "Mateo",
       "agentType": "mateo",
-      "backgroundId": "mateo-launched-1775453377212"
+      "backgroundId": "mateo-launched-1775610559647"
     },
     {
       "agentId": "agent-luca",
       "name": "Luca",
       "agentType": "luca",
-      "backgroundId": "luca-launched-1775453377212"
+      "backgroundId": "luca-launched-1775610559647"
     },
     {
       "agentId": "agent-ellie",
       "name": "Ellie",
       "agentType": "ellie",
-      "backgroundId": "ellie-launched-1775453377212"
+      "backgroundId": "ellie-launched-1775610559647"
     },
     {
       "agentId": "ellie-2@agent-office",
@@ -40,7 +40,7 @@
       "cwd": "/Users/klauskollerkroeff/.claude",
       "subscriptions": [],
       "backendType": "in-process",
-      "backgroundId": "ellie-2-launched-1775453377212"
+      "backgroundId": "ellie-2-launched-1775610559647"
     },
     {
       "agentId": "luca-3@agent-office",
@@ -55,7 +55,7 @@
       "cwd": "/Users/klauskollerkroeff/Documents/agent-office",
       "subscriptions": [],
       "backendType": "in-process",
-      "backgroundId": "luca-3-launched-1775453377212"
+      "backgroundId": "luca-3-launched-1775610559647"
     },
     {
       "agentId": "ellie-3@agent-office",
@@ -70,7 +70,7 @@
       "cwd": "/Users/klauskollerkroeff/Documents/agent-office",
       "subscriptions": [],
       "backendType": "in-process",
-      "backgroundId": "ellie-3-launched-1775453377212"
+      "backgroundId": "ellie-3-launched-1775610559647"
     },
     {
       "agentId": "yoda@agent-office",
@@ -84,7 +84,7 @@
       "cwd": "/Users/klauskollerkroeff/Documents/agent-office",
       "subscriptions": [],
       "backendType": "in-process",
-      "backgroundId": "yoda-launched-1775453377212"
+      "backgroundId": "yoda-launched-1775610559647"
     }
   ]
 }

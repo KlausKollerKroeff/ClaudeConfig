@@ -1,0 +1,9 @@
+{
+  "id": "1",
+  "subject": "Visual polish: animations, gradients, particle effects on canvas",
+  "description": "Improve the office canvas with visual polish: add fountain animation, agent walking bobbing, decorative particles, better room labels, ambient effects. Read app.js and office.css, add improvements.",
+  "activeForm": "Polishing visuals",
+  "status": "pending",
+  "blocks": [],
+  "blockedBy": []
+}

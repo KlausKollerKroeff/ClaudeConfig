@@ -5,7 +5,7 @@
       "repo": "anthropics/claude-plugins-official"
     },
     "installLocation": "/Users/klauskollerkroeff/.claude/plugins/marketplaces/claude-plugins-official",
-    "lastUpdated": "2026-04-08T01:24:20.200Z"
+    "lastUpdated": "2026-04-09T19:27:32.071Z"
   },
   "claude-code-plugins": {
     "source": {
@@ -13,7 +13,7 @@
       "repo": "anthropics/claude-code"
     },
     "installLocation": "/Users/klauskollerkroeff/.claude/plugins/marketplaces/claude-code-plugins",
-    "lastUpdated": "2026-04-08T01:15:54.071Z"
+    "lastUpdated": "2026-04-09T19:27:31.861Z"
   },
   "autoresearch": {
     "source": {

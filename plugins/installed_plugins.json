@@ -4,28 +4,28 @@
     "skill-creator@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/Users/klauskollerkroeff/.claude/plugins/cache/claude-plugins-official/skill-creator/f644931049ef",
-        "version": "f644931049ef",
+        "installPath": "/Users/klauskollerkroeff/.claude/plugins/cache/claude-plugins-official/skill-creator/e09a75edc274",
+        "version": "e09a75edc274",
         "installedAt": "2026-04-05T00:06:27.230Z",
-        "lastUpdated": "2026-04-06T10:18:20.144Z"
+        "lastUpdated": "2026-04-09T18:31:33.213Z"
       }
     ],
     "pr-review-toolkit@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/Users/klauskollerkroeff/.claude/plugins/cache/claude-plugins-official/pr-review-toolkit/f644931049ef",
-        "version": "f644931049ef",
+        "installPath": "/Users/klauskollerkroeff/.claude/plugins/cache/claude-plugins-official/pr-review-toolkit/e09a75edc274",
+        "version": "e09a75edc274",
         "installedAt": "2026-04-05T00:07:43.080Z",
-        "lastUpdated": "2026-04-06T10:18:20.143Z"
+        "lastUpdated": "2026-04-09T18:31:33.211Z"
       }
     ],
     "frontend-design@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/Users/klauskollerkroeff/.claude/plugins/cache/claude-plugins-official/frontend-design/f644931049ef",
-        "version": "f644931049ef",
+        "installPath": "/Users/klauskollerkroeff/.claude/plugins/cache/claude-plugins-official/frontend-design/e09a75edc274",
+        "version": "e09a75edc274",
         "installedAt": "2026-04-05T00:23:22.701Z",
-        "lastUpdated": "2026-04-06T10:18:20.144Z"
+        "lastUpdated": "2026-04-09T18:31:33.210Z"
       }
     ],
     "autoresearch@autoresearch": [

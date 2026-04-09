@@ -1,0 +1,8 @@
+{
+  "id": "1",
+  "subject": "Commit updated .claude plugin and office configuration files",
+  "description": "Execute the full Git commit process for all changes found in the .claude and office plugin directories. This involves staging all modified and untracked files, drafting a logical commit message based on the provided context (plugin updates, configuration changes), and committing the changes using Yoda to ensure proper conventional commit formatting.",
+  "status": "pending",
+  "blocks": [],
+  "blockedBy": []
+}

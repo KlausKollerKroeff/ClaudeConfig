@@ -1,0 +1,9 @@
+{
+  "id": "2",
+  "subject": "Update gitignore to exclude generated task and plugin directories",
+  "description": "Add the 'tasks/' directory and any other auto-generated, ephemeral directories (like plugins/marketplaces/claude-plugins-official/plugins/session-report/) to .gitignore to keep the repository clean.",
+  "activeForm": "Updating .gitignore",
+  "status": "pending",
+  "blocks": [],
+  "blockedBy": []
+}

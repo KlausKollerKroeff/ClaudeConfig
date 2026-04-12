@@ -1,0 +1,9 @@
+{
+  "id": "1",
+  "subject": "System Health Check: Test Yoda Agent Communication",
+  "description": "Test the ability to initiate a conversation with Yoda agent to confirm connection, task delegation, and conversational turn-taking functionality for the git specialist agent.",
+  "activeForm": "Running Agent Health Check",
+  "status": "pending",
+  "blocks": [],
+  "blockedBy": []
+}

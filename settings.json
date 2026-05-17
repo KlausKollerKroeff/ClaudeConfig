@@ -1,9 +1,5 @@
 {
   "env": {
-    "ANTHROPIC_BASE_URL": "http://localhost:11434",
-    "ANTHROPIC_AUTH_TOKEN": "ollama",
-    "ANTHROPIC_API_KEY": "",
-    "ANTHROPIC_MODEL": "gemma4:e4b",
     "CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS": "1"
   },
   "permissions": {
@@ -65,5 +61,6 @@
   "autoMemoryEnabled": true,
   "autoDreamEnabled": true,
   "skipDangerousModePermissionPrompt": true,
-  "dangerouslySkipPermissions": true
+  "dangerouslySkipPermissions": true,
+  "model": "sonnet"
 }
